@@ -243,6 +243,24 @@
                 "patternzipSize" : "1.77 MB"
               }
             ]
+        },
+        {
+            "id" : "com.ibm.etools.mft.pattern.hybridintegration.appconnect",
+            "name": "IBM App Connect custom app",
+            "category_id": "categories.Id155352075394ff280442952fce2",
+            "doc_url": "http://hosie.github.io/iib-app-connect-trigger-pattern/pattern/en/overview.htm",
+            "ibm_supported": false,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "10*" ],
+                "feature_group_name" : "com.ibm.etools.mft.pattern.hybridintegration.appconnect.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.etools.mft.pattern.hybridintegration.appconnect.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.com/hosie/iib-app-connect-trigger-pattern/releases/download/v1.0/IIBtoAppConnect.patternzip",
+                "patternzipSize" : "4 MB"
+              }
+            ]
         }
     ]
 }
