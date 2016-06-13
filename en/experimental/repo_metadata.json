@@ -78,6 +78,12 @@
             "name": "Service Facade",
             "parent_category_id": "com.ibm.etools.mft.pattern.sv",
             "doc_url": "http://ot4i.github.io/patterns/en/categories/com.ibm.etools.mft.pattern.sv.sp/overview.htm"
+        },
+        {
+            "id": "categories.Id155352075394ff280442952fce2",
+            "name": "Hybrid Integration",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "http://hosie.github.io/patterns/en/categories/categories.Id155352075394ff280442952fce2/overview.htm"
         }
      ],
 
